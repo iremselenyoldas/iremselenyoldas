@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image.png" alt="Banner" width="100%"/>
-</div>
-
 # 🌟 Hello, Universe! I'm Selen.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=selen&color=blueviolet&style=flat-square)  
