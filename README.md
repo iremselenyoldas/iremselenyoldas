@@ -37,15 +37,12 @@ Welcome to my GitHub profile! I'm a **Data Analyst** with a knack for discoverin
 
 ### 🌿 Wind Energy Forecasting  
 🚀 Predictive modeling using time-series analysis for sustainable energy solutions.  
-[View Repository](https://github.com/selen123/wind-energy-forecasting)
 
 ### 🔍 Exploratory Data Analysis  
 📊 Data cleaning, visualization, and storytelling with Python, SQL and Power BI.  
-[View Repository](https://github.com/selen123/data-analysis-project)
 
 ### 🤖 Machine Learning for Classification  
 🧠 Developing and fine-tuning machine learning models for predictive insights.  
-[View Repository](https://github.com/selen123/ml-classification)
 
 ---
 
